@@ -26,7 +26,7 @@ The template image was correctly assigned to one of the existing clusters based 
 
 Conclusion
 
-This assignment shows how face detection and clustering can be combined for simple image-based classification tasks. It shows how color features can be used to group similar images. The results highlight the usefulness of distance-based algorithms like K-Means in real-world applications.
+This assignment shows how face detection and clustering can be combined for simple image-based classification tasks. It shows how color features can be used to group similar images. The results highlight the usefulness of distance based algorithms like K-Means in real-world applications.
 <img width="1266" height="699" alt="image" src="https://github.com/user-attachments/assets/b2682798-1546-4bf8-9c4f-ee66ed5976cf" />
 <img width="1261" height="701" alt="image" src="https://github.com/user-attachments/assets/fe3f31e0-d403-4482-acbd-fd5bbd2725e8" />
 <img width="1273" height="699" alt="image" src="https://github.com/user-attachments/assets/4698d50f-b775-426d-b9c3-6a91f9e7e284" />
